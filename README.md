@@ -1,2 +1,2 @@
 # Life-Test-Station
-Software to run life tests for laser devices.
+Software to run life test for laser devices.
